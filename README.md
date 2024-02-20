@@ -7,10 +7,10 @@ a study guide for course pre-work
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- My motivation for completing my pre-work study guide is to have my notes all compiled together into a site that i created, and am able to reference back to throughout my time in the bootcamp
+- I built this project to help learn and train my skills in HTML, CSS, JavaScript and Git.
+- In building this project I solved the problem of not having an organized, designated space for my notes.
+- I learned to code!
 
 ## Table of Contents (Optional)
 
